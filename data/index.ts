@@ -197,16 +197,19 @@ export const socialMedia = [
   {
     id: 1,
     img:  "/phone.svg",
-    link: "tel:+918607700977" 
+    link: "tel:+918607700977",
+    hoverText: "+91 8607700977"
   },
   {
     id: 2,
     img:"/gmail.svg",
-    link: "mailto:aryaprativesh@gmail.com"
+    link: "mailto:aryaprativesh@gmail.com",
+    hoverText:"aryaprativesh@gmail.com"
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/prativesh-arya-b77543173"
+    link: "https://www.linkedin.com/in/prativesh-arya-b77543173",
+    hoverText: "LinkedIn"
   },
 ];
