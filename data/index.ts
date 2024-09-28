@@ -72,6 +72,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Threads",
+    des: "Developed a social media app similar to threads using MERN",
+    img: "/threads.png",
+    iconLists: ["/mongo.svg", "/express.svg", "/re.svg", "/next.svg", "/tail.svg"],
+    link: "https://threads-mu-three.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Brainwave AI",
     des: "Developed homepage for a modern AI website using Three.js and ReactJS",
     img: "/brainwave.svg",
@@ -79,7 +87,7 @@ export const projects = [
     link: "https://brainwave-zeta-liard.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
@@ -87,45 +95,12 @@ export const projects = [
     link: "https://iphone-15-six.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Aora",
     des: "A video uploading and sharing app using React Native",
     img: "/aora.svg",
     iconLists: ["/re.svg", "/tail.svg", "/appwrite.svg", "/expo.svg"],
     link: "https://github.com/Prativesh/Video-App",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
   },
 ];
 
